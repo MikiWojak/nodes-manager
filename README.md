@@ -1,6 +1,6 @@
 # nodes-manager
 
-Program to manage list of Nodes
+Application to manage list of Nodes
 
 ## General info
 * C++ (MS Visual Studio)
