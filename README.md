@@ -17,7 +17,7 @@ Application to manage list of Nodes
 * Save - save Nodes to the binary file
 * Read - read Nodes from the binary file
 * Display - show all Nodes
-* Finish - close program
+* Finish - close application
 
 ## Technical features
 * Data storage - binary file
